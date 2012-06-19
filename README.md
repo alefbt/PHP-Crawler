@@ -8,18 +8,28 @@ PHP crawler and spider. working with UTF8, MySQL, Random host, Supports robots.t
 
 Install It
 ==========
+
 1. on /sql folder you will find 'schema_create.sql' file run it in sql
 2. on /libs folder you will find  'config.php' you should configure as well
 3. give read + write + delete permissions to /writable dir
 
 RUN IT
 ======
+
 There two ways to run 
 To run it with multi processes (if you configure on crowle.php ) Default 4 processes
-1. sh do_it.sh 
+
+	sh do_it.sh 
 
 To run single proccess 
-2. php crowle.php
+	
+	php crowle.php
+
+Stay in contact
+===============
+
+Linked in : http://il.linkedin.com/in/dannielkorotkin
+
 
 Hope it fine :-)
 Give me feedback !
