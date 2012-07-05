@@ -28,7 +28,7 @@ To run single proccess
 Stay in contact
 ===============
 
-Linked in : http://il.linkedin.com/in/dannielkorotkin
+Linked in : http://il.linkedin.com/in/yedako
 
 
 Hope it fine :-)
