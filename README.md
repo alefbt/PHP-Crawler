@@ -25,6 +25,31 @@ To run single proccess
 	
 	php crowle.php
 
+To Add new URL
+==============
+Create php file and run
+Method 1 :
+	<?php
+	
+	include 'libs/general.php';
+	
+	$urlArray=array(
+		'http://some-url-1.com/'=>"some url 1 description",
+		'http://some-url-2.com/"=>"some url 2 description"
+	);
+	
+	Providers::insert_url_list($urlArray);
+	
+	?>
+
+Method 2 :
+	<?php	
+		include 'libs/general.php';
+		$temp = Providers::get_or_create_url_by_url("http://some-url-1.com/");
+		$temp = Providers::get_or_create_url_by_url("http://some-url-2.com/");
+	?>
+?>
+
 Stay in contact
 ===============
 
