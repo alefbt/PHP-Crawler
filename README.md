@@ -42,13 +42,12 @@ Method 1 :
 	
 	?>
 
-Method 2 :
+Method 2 :	
 	<?php	
 		include 'libs/general.php';
 		$temp = Providers::get_or_create_url_by_url("http://some-url-1.com/");
 		$temp = Providers::get_or_create_url_by_url("http://some-url-2.com/");
 	?>
-?>
 
 Stay in contact
 ===============
