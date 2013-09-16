@@ -94,7 +94,7 @@ class Robots {
             {
                 $rules[] = array(
                     'type' => $type,
-                    'match' => preg_quote(trim($rule[1]), '/')
+                    'match' => str_replace('\*', '.*',preg_quote(trim($rule[1]), '/'))
                 );
             }
         }
