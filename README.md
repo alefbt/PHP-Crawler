@@ -54,7 +54,7 @@ Method 2 :
 Stay in contact
 ===============
 
-Linked in : http://il.linkedin.com/in/yedako
+Linked in : https://www.linkedin.com/profile/view?id=15375073
 
 
 Hope it fine :-)
