@@ -1,5 +1,3 @@
-BSD - BSD(not a licence) - it's Be Siaat haDishmaya (Translation: With god's help)
-
 PHP-Crawler
 ===========
 
@@ -54,8 +52,9 @@ Method 2 :
 Stay in contact
 ===============
 
-Linked in : https://www.linkedin.com/profile/view?id=15375073
-
+http://www.korotkin.co.il/
+- or - 
+info@korotkin.co.il
 
 Hope it fine :-)
 Give me feedback !
