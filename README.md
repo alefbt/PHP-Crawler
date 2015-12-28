@@ -6,7 +6,7 @@ PHP crawler and spider. working with UTF8, MySQL, Random host, Supports robots.t
 
 Install It
 ==========
-
+0. `sudo apt-get install curl php5-curl php5` - Validate that you have this packages
 1. on /sql folder you will find `schema_create.sql` file run it in sql
 2. on /libs folder you will find  `config.php` you should configure as well
 3. give read + write + delete permissions to `/writable` folder
